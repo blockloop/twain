@@ -1,0 +1,31 @@
+{
+  "name": "twain",
+  "version": "0.0.1",
+  "description": "Static site generator with heroku, github and markdown in mind",
+  "main": "twain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brettof86/twain"
+  },
+  "keywords": [
+    "twain",
+    "blog",
+    "site",
+    "github",
+    "heroku",
+    "markdown"
+  ],
+  "author": "brettof86",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brettof86/twain/issues"
+  },
+  "dependencies": {
+    "mkdirp": "~0.3.5",
+    "express": "~3.4.0"
+  },
+  "devDependencies": {}
+}
